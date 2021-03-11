@@ -1,0 +1,13 @@
+.bodyItemFlex {
+    display: flex;    
+}
+
+.spinnerPos {
+    text-align: center;
+}
+
+.styleSpinner {
+    font-size: 20px;
+    padding: 20px;
+    color: white;
+}
